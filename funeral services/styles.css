@@ -1,0 +1,99 @@
+*{
+	font-family: serif;
+	background-color: ;
+	font-size: 20px;
+	background-color:none;
+	list-style: none;
+}
+#navigation{padding-top: 40px;
+	background-color:#141da7;
+	a:link, a:visited{
+		color:red;{}
+	a:hover, a:active{
+		color: green;
+	}
+	}
+	color: ;
+	height:100px;
+	display: ;
+
+li{
+	list-style: none;
+}
+
+}
+#nav li{
+	display:inline;
+	margin-right: 5%;
+	margin-left: 5%;
+	text-decoration: ;
+	color:;
+	background-color:;
+}
+a:link, a:visited{
+	color: ;
+}
+a:hover, a active{
+	color: red;
+}
+li a{
+	color:white;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: verdana;
+
+}
+#heading1{
+font-size: 30px;
+text-decoration-color: red;
+}
+#img1{
+	width: 100%;
+}
+#user{
+	color: ;
+	text-align: center;
+}
+#pass{
+	color: red;
+	text-align: center;
+	margin-left: 5px;
+}
+#sub{
+	padding-right: 10px;
+	text-align: center;
+	margin-left: 10px;
+	padding-right: 31px;
+}
+#contacts{
+	color:;
+}
+#img2{
+	width: 100%;
+}
+#footer{
+	background-color: black;
+}
+#add{
+	background-color: green;
+}
+#foot{
+	background-color: black;
+	color: white;
+}
+#last{
+	background-color: green;
+}
+#img4{
+	width: 100%;
+}
+#img6{
+	width: 100%;
+}
+#img14{
+	width: 100%;
+}
+
+
+
+
